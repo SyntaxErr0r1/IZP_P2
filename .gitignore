@@ -1,0 +1,5 @@
+.parts
+.vscode/
+*.txt
+tempCodeRunnerFile.c
+./sps

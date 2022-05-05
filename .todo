@@ -1,0 +1,6 @@
+BUGS:
+    - segfault after selecting and editing nonexistent line or row
+    [search STR]:
+        searching for string with len of 2, causes cfrom() to append '_' at the end
+TODO:
+     - Pozn. vložené řádky a sloupce mají účinek nad rámec vybraných buněk, přidávají nebo odebírají sloupce nebo řádky celé tabulky.
